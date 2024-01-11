@@ -1,2 +1,2 @@
 # Text-Based-Emotion-Classification
-Simple and linear  ML models for text based emotion classification. 
+In this project we aim to classify text based on emotions using conventinal machine learning models susch as logestic regression, SVM, naive bayes and then  ensembling it. 
